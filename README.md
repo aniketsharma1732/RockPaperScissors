@@ -14,6 +14,10 @@ A fun and interactive Rock Paper Scissors game built with **HTML, CSS, and JavaS
 
 ---
 
+Screenshot of the website
+![Alt Text](preview/Screenshot 2025-07-29 175539.png)
+
+
 ## 🎮 How to Play
 
 1. Choose Rock, Paper, or Scissors by clicking one of the buttons.
