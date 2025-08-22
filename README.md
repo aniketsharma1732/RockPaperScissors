@@ -14,8 +14,7 @@ A fun and interactive Rock Paper Scissors game built with **HTML, CSS, and JavaS
 
 ---
 
-Screenshot of the website
-![Alt Text](preview/Screenshot 2025-07-29 175539.png)
+![Screenshot of the website](preview/Screenshot 2025-07-29 175539.png)
 
 
 ## 🎮 How to Play
