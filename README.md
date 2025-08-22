@@ -17,6 +17,9 @@ A fun and interactive Rock Paper Scissors game built with **HTML, CSS, and JavaS
 ![Screenshot of the website](https://github.com/aniketsharma1732/RockPaperScissors/blob/92e202a7399be5bdc5cb0a2ae77792bf5be3cb21/preview/Screenshot%202025-07-29%20175539.png)
 
 
+Link of the game - https://aniketsharma1732.github.io/RockPaperScissors/
+
+
 ## 🎮 How to Play
 
 1. Choose Rock, Paper, or Scissors by clicking one of the buttons.
