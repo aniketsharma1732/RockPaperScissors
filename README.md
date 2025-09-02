@@ -3,7 +3,6 @@
 A fun and interactive Rock Paper Scissors game built with **HTML, CSS, and JavaScript**. Test your luck against the computer, track your score, and enjoy the game with smooth visuals and simple logic!
 
 ---
-
 ## 🚀 Features
 
 - ✅ Play Rock, Paper, or Scissors by clicking buttons or using keyboard shortcuts (`r`, `p`, `s`)
